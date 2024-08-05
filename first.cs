@@ -2,9 +2,9 @@
 
 namespace CSharpPractice.TopAcademy;
 
-class first
+class First
 {
-    public void First()
+    public void _First()
     {
         Console.WriteLine("Введи число от 1 до 100: ");
 

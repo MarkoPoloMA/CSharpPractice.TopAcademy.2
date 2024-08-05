@@ -10,4 +10,3 @@ namespace CSharpPractice.TopAcademy
         }
     }
 }
-}

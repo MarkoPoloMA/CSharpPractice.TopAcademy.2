@@ -2,9 +2,9 @@
 
 namespace CSharpPractice.TopAcademy;
 
-class second
+class Second
 {
-    public static void Second()
+    public static void _Second()
     {
         try
         {
